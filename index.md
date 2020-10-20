@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Weather Forecast](/sample_page)
+[Weather Forecast](/DSC510-Intro to Python/DSC510-Weather Forecast.py)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
